@@ -293,3 +293,5 @@ CREATE TABLE [FactSurveyResponse](
 .import csv/FactInternetSales.csv FactInternetSales
 .import csv/FactInternetSalesReason.csv FactInternetSalesReason
 .import csv/FactSurveyResponse.csv FactSurveyResponse
+
+.save AdventureWorks.db
