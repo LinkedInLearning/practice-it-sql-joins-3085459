@@ -11,10 +11,10 @@ sqlite3 AdventureWorks.db <<EOF
 .import csv/DimOrganization.csv DimOrganization
 .import csv/DimProduct.csv DimProduct
 .import csv/DimProductCategory.csv DimProductCategory
-.import csv/DimProductSubcatory.csv DimProductSubcategory
+.import csv/DimProductSubcategory.csv DimProductSubcategory
 .import csv/DimPromotion.csv DimPromotion
 .import csv/DimSalesReason.csv DimSalesReason
-.import csv/DimSalesTerritory.csv DimsSalesTerritory
+.import csv/DimSalesTerritory.csv DimSalesTerritory
 .import csv/FactCurrencyRate.csv FactCurrencyRate
 .import csv/FactInternetSales.csv FactInternetSales
 .import csv/FactInternetSalesReason.csv FactInternetSalesReason
