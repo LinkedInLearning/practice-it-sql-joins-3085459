@@ -19,6 +19,8 @@ sqlite3 AdventureWorks.db <<EOF
 .import csv/FactInternetSales.csv FactInternetSales
 .import csv/FactInternetSalesReason.csv FactInternetSalesReason
 .import csv/FactSurveyResponse.csv FactSurveyResponse
+.import csv/DimReseller.csv DimReseller
+.import csv/FactResellerSales.csv FactResellerSales
 
 .quit
 EOF
