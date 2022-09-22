@@ -1,0 +1,28 @@
+This file contains helper commands for Chapter 1.
+
+* To open a new SQLite Session, type the following in the terminal
+sqlite3
+
+* To open AdventureWorks databse, type the following in the terminal
+.open AdventureWorks.db 
+
+* To see the current database connection
+.database
+
+* SQL command to view all tables in the database
+Select name from sqlite_master 
+where type = 'table' and name NOT LIKE 'sqlite_%'
+
+* To list all the tables in the database
+.tables
+
+* To begin creating a script, change output mode to HTML
+.mode html
+.output adventureworks_docs.html
+
+* Add headers to your output
+.headers open
+
+
+
+
