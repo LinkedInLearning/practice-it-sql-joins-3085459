@@ -13,6 +13,12 @@ If you recieve a "Permission denied" error on running any of your shell scripts 
 ## Creating Output Files
 This course outputs files in HTML format in Chapter 1. You can also use .line or .column formats as well if you are not as familiar with HTML. 
 
+## VS Code Extensions
+The following extensions are used in this course and are helpful with viewing SQL results and PDFs.
+* SQLiteViewer
+* PDFViewer
+
+
 You can install the HTML Preview or Open in Default Browser extensions in VS Code to open your html files to view.
 
 ## Branches
