@@ -4,22 +4,7 @@ This is the repository for the LinkedIn Learning course `course-name`. The full 
 ![course-name-alt-text][lil-thumbnail-url] 
 
 _See the readme file in the main branch for updated instructions and information._
-## Instructions
-To install the AdventureWorks database, open a new terminal session. Run `create_database.sh` on the command line.
 
-If you recieve a "Permission denied" error on running any of your shell scripts (.sh files), run the following command on your file name (ex. create_documentation.sh):
-`chmod +x create_documentation.sh`
-
-## Creating Output Files
-This course outputs files in HTML format in Chapter 1. You can also use .line or .column formats as well if you are not as familiar with HTML. 
-
-## VS Code Extensions
-The following extensions are used in this course and are helpful with viewing SQL results and PDFs.
-* SQLiteViewer
-* PDFViewer
-
-
-You can install the HTML Preview or Open in Default Browser extensions in VS Code to open your html files to view.
 
 ## Branches
 The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
@@ -38,9 +23,17 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- The following VS Code extensions are used in this course and are helpful with viewing SQL results and PDFs.
+        * SQLiteViewer
+        * PDFViewer
+        * You can install the HTML Preview or Open in Default Browser extensions in VS Code to open your html files to view.
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. To install the AdventureWorks database, open a new terminal session. Run `create_database.sh` on the command line.
+
+4. If you recieve a "Permission denied" error on running any of your shell scripts (.sh files), run the following command on your file name (ex. create_documentation.sh):
+`chmod +x create_documentation.sh`
+
+5. This course outputs files in HTML format in Chapter 1. You can also use .line or .column formats as well if you are not as familiar with HTML. 
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
