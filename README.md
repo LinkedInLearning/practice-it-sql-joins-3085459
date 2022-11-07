@@ -1,25 +1,9 @@
-# Practice It SQL Joins
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Practice It: SQL Joins 
+This is the repository for the LinkedIn Learning course Practice It: SQL Joins . The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Practice It: SQL Joins ][lil-thumbnail-url]
 
-_See the readme file in the main branch for updated instructions and information._
-
-
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+In this course, instructor Nikiya Simpson guides you through four main types of SQL joins, with plenty of opportunities to try what you’re learning. Nikiya starts with schema description SQL commands, plus table and column description SQL commands. She goes over inner joins, then dives into left joins, self joins, and multiple complex joins. Nikiya also covers right joins, full outer joins, and cross joins.<br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
@@ -35,9 +19,13 @@ To resolve this issue:
 
 5. This course outputs files in HTML format in Chapter 1. You can also use .line or .column formats as well if you are not as familiar with HTML. 
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Nikiya Simpson
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson?u=104).
+
+[lil-course-url]: https://www.linkedin.com/learning/practice-it-sql-joins
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGyWTEFefe0aA/learning-public-crop_675_1200/0/1666987275307?e=1667955600&v=beta&t=qgIEe6waCLsPYrw3df1UC31WsuTEZfXuBEd3eoBNOa8
+[gcs-video-url]: https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces
 
