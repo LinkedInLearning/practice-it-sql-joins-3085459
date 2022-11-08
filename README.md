@@ -1,5 +1,5 @@
 # Practice It: SQL Joins 
-This is the repository for the LinkedIn Learning course Practice It: SQL Joins . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Practice It: SQL Joins. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Practice It: SQL Joins ][lil-thumbnail-url]
 
