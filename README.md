@@ -1,7 +1,7 @@
 # Practice It: SQL Joins 
 This is the repository for the LinkedIn Learning course Practice It: SQL Joins. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Practice It: SQL Joins ][lil-thumbnail-url]
+![1666987275307](https://user-images.githubusercontent.com/25848438/200747667-d4531a5c-2aef-4690-a1c4-246edbe80bd4.jpeg)
 
 In this course, instructor Nikiya Simpson guides you through four main types of SQL joins, with plenty of opportunities to try what you’re learning. Nikiya starts with schema description SQL commands, plus table and column description SQL commands. She goes over inner joins, then dives into left joins, self joins, and multiple complex joins. Nikiya also covers right joins, full outer joins, and cross joins.<br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
 
@@ -26,6 +26,5 @@ Nikiya Simpson
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/practice-it-sql-joins
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGyWTEFefe0aA/learning-public-crop_675_1200/0/1666987275307?e=1667955600&v=beta&t=qgIEe6waCLsPYrw3df1UC31WsuTEZfXuBEd3eoBNOa8
 [gcs-video-url]: https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces
 
