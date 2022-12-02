@@ -12,7 +12,7 @@ In this course, instructor Nikiya Simpson guides you through four main types of 
         * PDFViewer
         * You can install the HTML Preview or Open in Default Browser extensions in VS Code to open your html files to view.
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. To install the AdventureWorks database, open a new terminal session. Run `create_database.sh` on the command line.
+3. To install the AdventureWorks database, open a new terminal session. Run `./create_database.sh` on the command line.
 
 4. If you recieve a "Permission denied" error on running any of your shell scripts (.sh files), run the following command on your file name (ex. create_documentation.sh):
 `chmod +x create_documentation.sh`
