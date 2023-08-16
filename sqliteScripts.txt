@@ -1,0 +1,13 @@
+.open AdventureWorks.db
+ select * from sqlite_master where name = 'DimCustomer';
+ .headers on
+ .mode html
+ .output adventureworks_doc.html
+ .tables
+ select "Number of rows in DimCustomer";
+ select count(1) from DimCustomer;
+ select count(1) from DimCustomer;
+ select * from sqlite_master where name = 'DimCustomer';
+ select sql from sqlite_master where name = 'DimCustomer';
+ select sql from sqlite_master where name in ('DimCustomer', 'DimCurrency', 'DimProduct');
+ 
